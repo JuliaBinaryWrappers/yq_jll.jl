@@ -1,151 +1,160 @@
 [[yq]]
 arch = "aarch64"
-git-tree-sha1 = "54c70aa289d95b60474ee9c605a44b520e656232"
+git-tree-sha1 = "f1ca9d122304e52c9cadc7a44f66868141f9ee1e"
 os = "macos"
 
     [[yq.download]]
-    sha256 = "e663a714d7f093384ebb0888af543c8073453dde5ba10db2031a21d495846e8c"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "e7c877a13c6264b7741c1cc1983c6dc6bbcf80263b85d67407de89b254354aa4"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.aarch64-apple-darwin.tar.gz"
 [[yq]]
 arch = "aarch64"
-git-tree-sha1 = "5de6f1017647d274a0eb0e9bc6b89f40aa21023c"
+git-tree-sha1 = "48597d8932785e785ab328e8a2dd19d852b06959"
 libc = "glibc"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "21d6e89fe60b9b2f59e36714a4eb829e9ac8d040fa50ca52d3731ed38389bf6e"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "17b8ae45afa54bb8a775c3532a58d98735636025d2d01c8f66c4fa7a6dec63de"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.aarch64-linux-gnu.tar.gz"
 [[yq]]
 arch = "aarch64"
-git-tree-sha1 = "5de6f1017647d274a0eb0e9bc6b89f40aa21023c"
+git-tree-sha1 = "48597d8932785e785ab328e8a2dd19d852b06959"
 libc = "musl"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "21d6e89fe60b9b2f59e36714a4eb829e9ac8d040fa50ca52d3731ed38389bf6e"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.aarch64-linux-musl.tar.gz"
+    sha256 = "17b8ae45afa54bb8a775c3532a58d98735636025d2d01c8f66c4fa7a6dec63de"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.aarch64-linux-musl.tar.gz"
 [[yq]]
 arch = "aarch64"
-git-tree-sha1 = "66011603562c0ddcd65a95d6678d8d659f978edc"
+git-tree-sha1 = "e11276a7509a2f2cdd4f020c0dd6031e7575a3a2"
 os = "freebsd"
 
     [[yq.download]]
-    sha256 = "b415b242e86b9e4db3fa89dd3542684419fd8b058abb11d7772b1b64d9181034"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "7e183db55e8dc88f3570d5fc95f7f62566a8bb122d6ce7fedd970dfe3ec2d868"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.aarch64-unknown-freebsd.tar.gz"
 [[yq]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "05dd7d711d62e3c7e372f6ec8d05d58b787b49cc"
+git-tree-sha1 = "490090e66ad180fe0eb09e2edace9f5121f58575"
 libc = "glibc"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "9e572e5a54eea2ecf7161bea79670297ab2558425406c8b5f6d84a3b23595e7f"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "22cc085210e608b6a05484e0e62c523a7138619ed6c90f63c82c1671858bb726"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.armv6l-linux-gnueabihf.tar.gz"
 [[yq]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "05dd7d711d62e3c7e372f6ec8d05d58b787b49cc"
+git-tree-sha1 = "490090e66ad180fe0eb09e2edace9f5121f58575"
 libc = "musl"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "9e572e5a54eea2ecf7161bea79670297ab2558425406c8b5f6d84a3b23595e7f"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "22cc085210e608b6a05484e0e62c523a7138619ed6c90f63c82c1671858bb726"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.armv6l-linux-musleabihf.tar.gz"
 [[yq]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "85ce2fae15fbb2ad25f8753f11b91d20e9d31420"
+git-tree-sha1 = "32e9c6024af9424cc0c3d294aa7864d2a5642c19"
 libc = "glibc"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "c05ee49f7c5c401c0cd0cbb6db62fc9aa2ed98e42ad707d1cfd28fc25badf1b3"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "038f0b0ca93b08e2dde073c6d7130e920a6add6451ef676d3f4f73e26b0bf16e"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.armv7l-linux-gnueabihf.tar.gz"
 [[yq]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "85ce2fae15fbb2ad25f8753f11b91d20e9d31420"
+git-tree-sha1 = "32e9c6024af9424cc0c3d294aa7864d2a5642c19"
 libc = "musl"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "c05ee49f7c5c401c0cd0cbb6db62fc9aa2ed98e42ad707d1cfd28fc25badf1b3"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "038f0b0ca93b08e2dde073c6d7130e920a6add6451ef676d3f4f73e26b0bf16e"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.armv7l-linux-musleabihf.tar.gz"
 [[yq]]
 arch = "i686"
-git-tree-sha1 = "490df0b01f781b7c1936e9c3d8fba60416ebd3a8"
+git-tree-sha1 = "19f17358321818aa772adc43def0ae62f2f66b51"
 libc = "glibc"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "751edaf62b23f5d7953a272a0311ad1826f0c2bb6d86fa7716c6f5654216975e"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.i686-linux-gnu.tar.gz"
+    sha256 = "416d200f1f21cfb9ad9520675c501eefa8824ea2115e303308b762586c44b189"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.i686-linux-gnu.tar.gz"
 [[yq]]
 arch = "i686"
-git-tree-sha1 = "490df0b01f781b7c1936e9c3d8fba60416ebd3a8"
+git-tree-sha1 = "19f17358321818aa772adc43def0ae62f2f66b51"
 libc = "musl"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "751edaf62b23f5d7953a272a0311ad1826f0c2bb6d86fa7716c6f5654216975e"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.i686-linux-musl.tar.gz"
+    sha256 = "416d200f1f21cfb9ad9520675c501eefa8824ea2115e303308b762586c44b189"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.i686-linux-musl.tar.gz"
 [[yq]]
 arch = "i686"
-git-tree-sha1 = "2d475da91aaccaaeca84dda36c33ac336737c1bf"
+git-tree-sha1 = "0109375103d7abfacd38d5a93e2e764ba0d83f4e"
 os = "windows"
 
     [[yq.download]]
-    sha256 = "e8502129bd60d12d8fe7cd9730ab3a73af548860a7f376c64ce4e427750665f8"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.i686-w64-mingw32.tar.gz"
+    sha256 = "46e83177108bf7662d8443dd4934afab708c6407085dd505ceff1911213b6458"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.i686-w64-mingw32.tar.gz"
 [[yq]]
 arch = "powerpc64le"
-git-tree-sha1 = "907c102d37ce3ee610fd25b93a4e2d3e08beb883"
+git-tree-sha1 = "d25b952231ee328286685e2c46b9d3130896479f"
 libc = "glibc"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "1182a799e71e1906dd9f4ee33422143d01726b1bbedd1db53277dc001e6f8290"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d992b74572435759023791182e7ba7f6399547021bd9a569d4e08a9e905b76c9"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.powerpc64le-linux-gnu.tar.gz"
+[[yq]]
+arch = "riscv64"
+git-tree-sha1 = "66cbd2f2fe9ec3a965fde698533cb448891effde"
+libc = "glibc"
+os = "linux"
+
+    [[yq.download]]
+    sha256 = "41de5283ba4a66015e6ba4e5c96682d5d568999ba0b7ff6a928b7dbfa4c4d0f1"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.riscv64-linux-gnu.tar.gz"
 [[yq]]
 arch = "x86_64"
-git-tree-sha1 = "662d3fcdda065a28d5a01dd30f787d466589a48d"
+git-tree-sha1 = "7085775d175bfac9fd00de1b25a8581a00aadcf4"
 os = "macos"
 
     [[yq.download]]
-    sha256 = "0fc69ef9473b83904a00386efcde4f4b7e0d59a8ea59c73d684dca631d94c3dd"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "255d768d915711bada7802a740b99cfad7f515d7ab8d4938465c15d75c23e480"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.x86_64-apple-darwin.tar.gz"
 [[yq]]
 arch = "x86_64"
-git-tree-sha1 = "ce02e1291610346a18f1b2ca561323be165aa1f9"
+git-tree-sha1 = "59b36c4622147ac8cdf60b77e548ef52a081dd2e"
 libc = "glibc"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "d6c382ab33bf48bd0cfd1f36e4fcdd02faf271e59a7a73be5dbe148910691a45"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "b32ec5b1d8ed0bc16af45b79c0d93888654fafe5fcc35e86257ada3804719dd4"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.x86_64-linux-gnu.tar.gz"
 [[yq]]
 arch = "x86_64"
-git-tree-sha1 = "b36f50a1785851f77a88fd5f7623da6c80d15003"
+git-tree-sha1 = "f9cc8f2ebfce3d8c7908b77ba91955bf80b6414e"
 libc = "musl"
 os = "linux"
 
     [[yq.download]]
-    sha256 = "4b513033f4344428add9344423dba39f7f85e50c0970b522679b68348e3669b2"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.x86_64-linux-musl.tar.gz"
+    sha256 = "e1fb438dca03cba43f801721430ac7f2c7c7709256ba849bddb2bf83b64ae81c"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.x86_64-linux-musl.tar.gz"
 [[yq]]
 arch = "x86_64"
-git-tree-sha1 = "a0c3b48063fa36d9a0c3f6ab30ee44f9a32574ba"
+git-tree-sha1 = "35c75ac99a4f1e351563f20171d6c35730fbf77b"
 os = "freebsd"
 
     [[yq.download]]
-    sha256 = "4b2925871315e6ecd5d54aeb4ecdbc0278dad5f52f0845b4644c4d0dcdc280de"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a35ad23016ec3b11fd06d20d7538e2a00c14f4a2b971ddc73b79b9e88bff1067"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.x86_64-unknown-freebsd.tar.gz"
 [[yq]]
 arch = "x86_64"
-git-tree-sha1 = "c34edd57f534eb25a8cd538c7752ca79cd7514fd"
+git-tree-sha1 = "230d6ca14be24d9f19b7c5c77afb19b997d7d926"
 os = "windows"
 
     [[yq.download]]
-    sha256 = "c2af9467b37e030c243238c0e16b74e2434a309a34eb28582b9a96bc8680473e"
-    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.44.3+0/yq.v4.44.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "74259612435058b20768d40a14a94946526f11bfcfda96aab1a4a5d60ba6d3ef"
+    url = "https://github.com/JuliaBinaryWrappers/yq_jll.jl/releases/download/yq-v4.45.1+0/yq.v4.45.1.x86_64-w64-mingw32.tar.gz"
